@@ -146,6 +146,6 @@ Aspiring Data Analyst | Excel Dashboard Developer | Data Visualization Enthusias
 
 ### Connect with Me
 
-* LinkedIn: [https://www.linkedin.com/in/pradip-kadam/](https://www.linkedin.com/in/pradip-kadam/)
+* LinkedIn:linkedin.com/in/pradip-kadam-467a1a325
 
 https://drive.google.com/file/d/1v2uzJJptF0X4j-x8lhEzZDrZx3VzxSeo/view?usp=drivesdk
