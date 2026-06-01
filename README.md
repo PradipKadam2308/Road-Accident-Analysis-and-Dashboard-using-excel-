@@ -150,3 +150,4 @@ Aspiring Data Analyst | Excel Dashboard Developer | Data Visualization Enthusias
 
 https://drive.google.com/file/d/1v2uzJJptF0X4j-x8lhEzZDrZx3VzxSeo/view?usp=drivesdk
 
+<img width="1192" height="676" alt="Screenshot 2026-02-24 171048 (1)" src="https://github.com/user-attachments/assets/45c9377d-af77-4741-a84f-7902f3fee418" />
